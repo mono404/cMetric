@@ -15,11 +15,12 @@ This source code requires Metrics Server to be correctly configured and working 
 
 ## 프로젝트 개요
 > 쿠버네티스 환경 내의 리소스 모니터링 프로그램
-- 쿠버네티스 클러스터 구조 내의 모든 리소스 파악
+- 쿠버네티스 클러스터 기본 구조 파악
   - Nodes
     - Namespaces
         - Pods
             - Precesses
+- 쿠버네티스 기본 Workfolw 이해
 - 쿠버네티스 확장 컴포넌트 사용
   - Metrics Server API
 - CRI-O 사용
