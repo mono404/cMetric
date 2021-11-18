@@ -26,7 +26,7 @@ This source code requires Metrics Server to be correctly configured and working 
 - CRI-O 사용
   - crictl
 
-## 프로젝트 배경 지식 및 툴
+## 프로젝트 진행 시 활용한 툴과 이론에 대한 설명, 본인의 역할
 > 쿠버네티스 클러스터에 대한 이해
 - 쿠버네티스 API
   - Command-Line API
@@ -63,3 +63,14 @@ This source code requires Metrics Server to be correctly configured and working 
 - 프로세스에 대한 리소스 정보
   - ./cMetric.out get pods [POD_NAME]
   - ./cMetric.out get pods [POD_NAME] --namespace=[NAMESPACE_NAME]
+
+## 프로젝트에서 배운 점
+- 쿠버네티스 기본기
+- 다양한 API 사용법, 활용법
+- 실무에서의 쿠버네티스 경험
+
+## 프로젝트의 보완점 및 개선안
+- 옵션에 따른 다양한 정보 제공
+- GUI 적용
+- 커맨드라인 API -> REST API
+- 웹 모니터링 툴 제공
